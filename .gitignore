@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+chunk-*
+.idea
+*.jpg
+*.png
