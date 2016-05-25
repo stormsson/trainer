@@ -1,0 +1,5 @@
+scipy
+NumPy
+matplotlib
+sklearn
+nose
